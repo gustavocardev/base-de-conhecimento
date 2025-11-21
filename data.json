@@ -10,5 +10,29 @@
     "descricao": "O Python é a linguagem da ciência de dados e IA",
     "ano": 1991,
     "link": "https://docs.python.org/pt-br/3.14/"
+},
+{
+    "nome":"Java",
+    "descricao": "Java é uma linguagem de programação orientada a objetos e uma plataforma de software.",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/"
+},
+{
+    "nome":"C#",
+    "descricao": "C# é uma linguagem de programação moderna, orientada a objetos e de tipo seguro da Microsoft.",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome":"TypeScript",
+    "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/"
+},
+{
+    "nome":"Go",
+    "descricao": "Go é uma linguagem de programação de código aberto criada pelo Google, projetada para ser simples e eficiente.",
+    "ano": 2009,
+    "link": "https://go.dev/doc/"
 }
 ]
